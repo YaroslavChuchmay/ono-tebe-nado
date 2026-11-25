@@ -163,18 +163,6 @@ a {
   box-sizing: border-box;
 }
 
-.card_type_film {
-  background-image: url('../images/film.jpg');
-}
-
-.card_type_book {
-  background-image: url('../images/book.jpg');
-}
-
-.card_type_picture {
-  background-image: url('../images/picture.jpg');
-}
-
 .card__title {
   position: relative;
   z-index: 1;
