@@ -1,1 +1,1 @@
-https://github.com/YaroslavChuchmay/ono-tebe-nado/blob/main/README.md
+https://github.com/YaroslavChuchmay/ono-tebe-nado-ad
